@@ -1,0 +1,5 @@
+Serve para armazenar dados
+
+    var  // seus dados podem ser mudados enventualmente
+    let // seus dados podem ser mudados enventualmente
+    const // seus dados não pode ser mudados

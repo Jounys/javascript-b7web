@@ -1,0 +1,7 @@
+Ex:
+    let nome = "João" //string
+    let idade = 22 //number
+    let logado = true //boolean
+    let lista = ["ovo", "massa", "corante"] // Array
+    let nomeCompleto = {nome: "João", idade: 22} //Objeto
+    //console.log(typeof nome, typeof idade)
